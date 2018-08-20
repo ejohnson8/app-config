@@ -14,5 +14,7 @@ logging:
 greeting:
   displayFortune: false
 
+name: liz
+
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
